@@ -32,6 +32,9 @@ Examples of unacceptable behavior include:
 - knowingly submitting illegal, confidential, or unauthorized material; and
 - using LibreCourseUY spaces or identity in a way that falsely suggests official institutional backing.
 
+> [!WARNING]
+> Serious accusations against a member must include full context, be reported through the appropriate channels, and allow the accused member an opportunity to respond as part of a fair process.
+
 ## Scope
 
 This Code of Conduct applies in:
