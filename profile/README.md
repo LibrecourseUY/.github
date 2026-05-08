@@ -1,6 +1,6 @@
 # LibreCourseUY
 
-Open Source projects for Engineering students.
+Open Source projects for students.
 
 ## Our Projects
 
