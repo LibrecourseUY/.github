@@ -8,6 +8,7 @@ Open Source projects for students.
 - [fingcomms](https://github.com/LibrecourseUY/fingcomms) - Student groups directory
 - [fingDB](https://github.com/LibrecourseUY/fingDB) - Centralized database API
 - [fingmap](https://github.com/LibrecourseUY/fingmap) - Interactive campus map
+- [inkFing](https://github.com/LibreCourseUY/Inkfing) - Dark mode for Eva, a Moodle based platform
 
 ## Community Documentation
 
