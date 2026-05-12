@@ -30,7 +30,6 @@ jobs:
             chore
             revert
           requireScope: false
-          disallowScopes: []
 
   # ─────────────────────────────────────────────
   # 2. All commits follow Conventional Commits
