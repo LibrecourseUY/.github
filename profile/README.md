@@ -1,6 +1,6 @@
 # LibreCourseUY
 
-Open Source projects for students.
+LibreCourseUY is a non-profit initiative based in Uruguay that helps programmers, from aspiring developers to experienced professionals, contribute to FOSS.
 
 ## Our Projects
 
